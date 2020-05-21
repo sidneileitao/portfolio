@@ -1,6 +1,8 @@
 Anotações para o curso 
 remover esse arquivo
 seletores CSS 
+teste de alteração
+
 *
 
 Uma forma de resetar as formatações
