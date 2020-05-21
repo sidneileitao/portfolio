@@ -1,5 +1,5 @@
 Anotações para o curso 
-
+remover esse arquivo
 seletores CSS 
 *
 
