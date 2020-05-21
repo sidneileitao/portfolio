@@ -1,0 +1,40 @@
+Anotações para o curso 
+
+seletores CSS 
+*
+
+Uma forma de resetar as formatações
+Colocar no início do arquivo do CSS
+* {
+   margin: 0;
+   padding: 0;
+}
+
+Exemplo de pseudo classe
+usa-se os :
+a:hover {
+   text-decoration: underline;
+}
+
+A ação ocorre da direita para a esquerda
+Exemplo: para os elementos "li" que estiverem dentro da classe "menu"
+.menu li {
+   list-style: none;
+}
+
+exemplo de uso herança
+.site-subtitle,.site-title{
+   text-align: center;
+   color: whitesmoke;
+   letter-spacing: 0.3em;
+}
+
+Várias sombras
+Basta separar por vírgulas
+box-shadow: 10px 10px 10px 2px white,0px 0px 10px 2px red;
+
+Unidades de medidas dos tamanhos
+"em" corresponde ao tamanho de fonte definido no body
+Exemplo:
+Se no body foi definido font-siza: 14px, 2em equivale a 28px (2 x 14px)
+
